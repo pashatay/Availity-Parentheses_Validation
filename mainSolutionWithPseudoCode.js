@@ -1,7 +1,7 @@
 //function takes in a string as an input and returns
 //true if all the parentheses in the string
 //are properly closed and nested
-//i.e. ((())) -> returns true
+//i.e. (((()))) -> returns true
 //(()()) -> returns false bc its not nested
 //((()))))) -> return false bc its not properly closed
 
