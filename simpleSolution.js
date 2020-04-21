@@ -1,5 +1,3 @@
-//this solution only checks if all parentheses are properly closed
-
 //I also wrote a simple algorithm to check if all parentheses
 //are properly closed
 function checkParenthesis(str) {
